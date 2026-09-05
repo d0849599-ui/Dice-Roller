@@ -1,0 +1,7 @@
+{
+  "name": "Dice Roller",
+  "description": "Shake-to-Roll Dice with clean minimalism design, motion detection, and polyhedral dice options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
